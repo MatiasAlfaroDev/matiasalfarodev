@@ -1,7 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514968/9949/blob_help.png?1643514968" width="30"/> Hey! Glad to see you here.</h1>
 
-<p>Welcome! </br> I'm Matías, Fullstack developer currently living in <img src="https://cdn-icons-png.flaticon.com/128/197/197599.png" width="13"/> <b>San Jose de Mayo, Uruguayn</b>. </p>
-<h3>Things I use to code with</h3>
+<p>¡Hola! </br> I'm Matías, a Full Stack Developer currently based in <img src="https://cdn-icons-png.flaticon.com/128/197/197599.png" width="13"/> <b>San Jose de Mayo, Uruguayn</b>. </p>
+
+<h3>My programming toolbox: </h3>
+
 <p>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
