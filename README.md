@@ -1,4 +1,4 @@
-<h1><img src="https://slackmojis.com/emojis/5745-mate/download" width="40"/> ¡Hola! Great to see you around!.</h1>
+<h1><img src="https://slackmojis.com/emojis/92813-pepe-thumbs-up/download" width="30"/> ¡Hola! Great to see you around!.</h1>
 
 <p> I'm Matías, a Full Stack Developer currently based in <img src="https://cdn-icons-png.flaticon.com/128/197/197599.png" width="13"/> <b>San Jose de Mayo, Uruguayn</b>. </p>
 
