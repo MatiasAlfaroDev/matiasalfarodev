@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514968/9949/blob_help.png?1643514968" width="30"/> Hey! Glad to see you here.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514968/9949/blob_help.png?1643514968" width="30"/> ¡Hola! Great to see you around!.</h1>
 
-<p>¡Hola! </br> I'm Matías, a Full Stack Developer currently based in <img src="https://cdn-icons-png.flaticon.com/128/197/197599.png" width="13"/> <b>San Jose de Mayo, Uruguayn</b>. </p>
+<p> I'm Matías, a Full Stack Developer currently based in <img src="https://cdn-icons-png.flaticon.com/128/197/197599.png" width="13"/> <b>San Jose de Mayo, Uruguayn</b>. </p>
 
 <h3>My programming toolbox: </h3>
 
