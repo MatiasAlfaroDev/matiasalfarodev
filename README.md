@@ -1,10 +1,13 @@
 
 <h1><img src="https://slackmojis.com/emojis/92813-pepe-thumbs-up/download" width="30"/> Hola, Great to see you around!</h1>
+
 <p>
+  
 <h4> I'm Matías, a Full Stack Developer currently based in <img src="https://cdn-icons-png.flaticon.com/128/197/197599.png" width="13"/> <b>San Jose de Mayo, Uruguay</b>. Don't be fooled by the coder facade! In my free time, I'm a music maker, sort of a culinary artist, and a "fierce" football player on weekends. </h4>
+
 <h5> <img src="https://i0.wp.com/parlamentodata.com/wp-content/uploads/2020/05/logo-udelar.png?fit=265%2C310&ssl=1" width="20"/> <img src="https://red.utec.edu.uy/wp-content/uploads/2018/11/09-Isotipo-1.png" width="20"/> Computer Engineering Student at UDELAR & UTEC</h5>
+
 </p>
-------------
 
 <h3>My programming toolbox: </h3>
 
@@ -27,8 +30,10 @@
 </p>
 
 <h3>Reach me on</h3>
+
 <p><a href="https://github.com/matiasalfarodev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/matiasalfarodev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
