@@ -2,7 +2,7 @@
 <h1><img src="https://slackmojis.com/emojis/92813-pepe-thumbs-up/download" width="30"/> Hola, Great to see you around!</h1>
 
 
-<h5>Computer Engineering Student at UDELAR <img src="https://i0.wp.com/parlamentodata.com/wp-content/uploads/2020/05/logo-udelar.png?fit=265%2C310&ssl=1" width="25"/></h5>
+<h5>Computer Engineering Student at UDELAR <img src="https://i0.wp.com/parlamentodata.com/wp-content/uploads/2020/05/logo-udelar.png?fit=265%2C310&ssl=1" width="20"/> & UTEC <img src="https://red.utec.edu.uy/wp-content/uploads/2018/11/09-Isotipo-1.png" width="20"/></h5>
 <h4> I'm Matías, a Full Stack Developer currently based in <img src="https://cdn-icons-png.flaticon.com/128/197/197599.png" width="13"/> <b>San Jose de Mayo, Uruguay</b>. </h4>
 
 
